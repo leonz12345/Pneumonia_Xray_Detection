@@ -1,5 +1,5 @@
 Data/train/*
 Data/val/*
 Data/test/*
-Models/baseline/*
+Models/baselines/*
 Models/grid_search/*
