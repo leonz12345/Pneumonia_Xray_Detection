@@ -1,0 +1,5 @@
+Data/train/*
+Data/val/*
+Data/test/*
+Models/baseline/*
+Models/grid_search/*
