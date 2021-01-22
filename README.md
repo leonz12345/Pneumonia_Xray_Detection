@@ -8,14 +8,14 @@ The significance of this project is to help doctors quickly and accurately diagn
 ![Webapp](https://github.com/leonz12345/Pneumonia_Xray_Detection/blob/main/Static/webapp_inferface.jpg)
 
 ## How to use
+
+Clone the repository to local machine <br>
+
+cd into the "Webapp" repository <br>
+
+To run the webapp:
 ```python
-Clone the repository to local machine
-```
-```python
-cd into the "Webapp" repository
-```
-```python
-To run the webapp, type: streamlit run app.py
+streamlit run app.py
 ```
 
 ## Methods Used
