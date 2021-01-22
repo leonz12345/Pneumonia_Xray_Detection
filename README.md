@@ -9,11 +9,11 @@ The significance of this project is to help doctors quickly and accurately diagn
 
 ## How to use
 
-Clone the repository to local machine <br>
+1. Clone the repository to local machine <br>
 
-cd into the "Webapp" repository <br>
+2. cd into the "Webapp" repository <br>
 
-To run the webapp:
+3. To run the webapp:
 ```python
 streamlit run app.py
 ```
